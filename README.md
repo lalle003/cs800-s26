@@ -38,7 +38,7 @@ CRN 32738
 
 ## Assignments (subject to change)
 
-* Weekly review of current events: [#cs533f24](https://twitter.com/search?q=%23cs533f24&src=typed_query&f=live)
+* Weekly review of current events: https://groups.google.com/g/cs800-s26
 
 * Assignment 1: Course Setup and RCR
    * [Due: Feb 2](/assignments/assignment-01.md)
