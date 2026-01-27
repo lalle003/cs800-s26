@@ -5,22 +5,23 @@
 This assignment involves completing the `learnyouhtml` workshop, which is an interactive tutorial designed to teach fundamental HTML concepts. The workshop consists of 11 exercises covering various HTML elements including tags, attributes, headings, lists, tables, forms, links, and other elements.
 
 ## Directory Structure
-Jayakody/1/
-├── html/ # Contains all HTML exercise files
-│ ├── blocks.html
-│ ├── forms.html
-│ ├── headings.html
-│ ├── image.html
-│ ├── index.html
-│ ├── links.html
-│ ├── lists.html
-│ ├── style.html
-│ ├── style.css
-│ ├── tables.html
-│ └── tags.html
-├── imgs/ # Contains screenshots and images
-│ └── cs800-initial.png
-└── README.md # This file
+
+- `Jayakody/1/`
+  - `html/` - Contains all HTML exercise files
+    - `blocks.html`
+    - `forms.html`
+    - `headings.html`
+    - `image.html`
+    - `index.html`
+    - `links.html`
+    - `lists.html`
+    - `style.html`
+    - `style.css`
+    - `tables.html`
+    - `tags.html`
+  - `imgs/` - Contains screenshots and images
+    - `cs800-initial.png`
+  - `README.md` - This file
 
 
 ## Files Description
