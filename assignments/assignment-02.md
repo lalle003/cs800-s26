@@ -34,7 +34,7 @@ LaTeX is *the* markup language for academic publication. [Overleaf](https://over
 
 Sign up for a free [Overleaf](https://overleaf.com) account.
 
-Walk through [part 1](https://www.overleaf.com/learn/latex/Free_online_introduction_to_LaTeX_(part_1)) of this [LaTeX introduction](https://www.overleaf.com/learn/latex/Free_online_introduction_to_LaTeX_(part_1)). In Overleaf, work the Typesetting Exercise 1 on [slide 65](https://www.overleaf.com/read/wdpmbwqbrzpm).  Download the PDF and include it in your A2 submission.
+Walk through [part 1](https://www.overleaf.com/learn/latex/Free_online_introduction_to_LaTeX_(part_1)) of this [LaTeX introduction](https://www.overleaf.com/learn/latex/Free_online_introduction_to_LaTeX_(part_1)). In Overleaf, using the template provided on [slide 65](https://www.overleaf.com/read/wdpmbwqbrzpm), substitue the URLs, images, and text provided by Dr. Weigle to the links and information specific to you.  Download the PDF and include it in your A2 submission.
 
 ## Responsible Conduct of Research
 
