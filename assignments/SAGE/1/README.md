@@ -24,7 +24,7 @@ Each assignment is organized into its own directory containing the corresponding
 
 
 **YouTube Link:**  
-https://www.youtube.com/watch?v=YOUR_VIDEO_LINK_HERE
+https://youtu.be/UovySLwxFUA
 
 ---
 
