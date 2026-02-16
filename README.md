@@ -35,7 +35,8 @@ CRN 32738
 * Week 03:	Feb 9	Post-PhD Careers, Reading Academic Papers  
   * [Class notes](https://docs.google.com/document/d/1ZIlCog36OoNKymgWZkJ5D8142JQ19WGjbaqW34ymd_8/edit)
   * [Class slides](https://docs.google.com/presentation/d/1Sj1vgQ_8m0WVEi45PX7fexI0hjmLlGUVVpJIvCk1hg8/edit)
-* Week 04: Feb 16 Academic Publishing and Reviewing 
+* Week 04: Feb 16 Related Work and Ethics
+  * [Class slides](https://docs.google.com/presentation/d/1iplY-NFOtmETeDL0HUKEdZptg72iRb62J4P6q55sEds/edit)
 * Week 05:	Feb 23 Academic Communication - Writing  
 * Week 06: Mar 2	Academic Communication - Presenting 
 * Week 07:	Mar 9	Visualization Basics, Intro to R  
@@ -58,3 +59,5 @@ CRN 32738
    * [Due: Feb 9](/assignments/assignment-02.md)
 * Assignment 3: Reading Papers
    * [Due: Feb 23](/assignments/assignment-03.md)
+* Assignment 4: Literature Review
+   * [Due: Mar 9](/assignments/assignment-04.md)
