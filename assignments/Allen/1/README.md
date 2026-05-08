@@ -20,4 +20,4 @@ The directory path containing HTML files are as followed: ~/assignments/Allen/1/
 
 
 #### YouTube Video
-The video of assignment 1 and test files completed are available at (https://youtu.be/YiLKAV50iY0)
+The video of assignment 1 and test files completed are available at (https://youtu.be/GQ_cUYrvs8c)
