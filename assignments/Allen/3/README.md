@@ -4,6 +4,15 @@
 This submission includes five papers from my research (privacy persistance), each with Keshav's 1st pass summary of problem, approach, and contributions; reference; link; BibTex; and marked up PDF.
 
 #### Directory Structure
+
+```text
+|Directory | Description |
+|----------|-------------|
+|`Marked-up Papers` | PDFs of five papers (Keshav 1st pass problem, approach, and contributions) |
+|`Images` | Screenshots of of each paper |
+|`README.md`| This file includes description, links, and screenshots |
+```
+
 **Marked-up papers** -- Marked up PDFs of five papers (Keshav 1st pass problem, approach, and contributions)
 **imgs** Screenshots of of each paper
 **README.md** This file includes description, links, and screenshots
@@ -18,6 +27,15 @@ https://doi.org/10.1016/j.jbi.2021.103815
 
 **BibTex:**
 ```bibtex
+@article{arshadai2021,
+author = "Arshad, Saadia and Arshad, Junaid and Khan, Muhammad Mubashir and Parkinson, Simon",
+title = "Analysis of Security and Privacy Challenges for {DNA} Genomics Applications and Databases",
+journal = "J Biomed Inform",
+year = "2021",
+volume = "119", 
+number = 
+pages = "1--14",
+DOI = "10.1016/j.jbi.2021.103815"
 @article{
 author = "Saadia Arshad, Junaid Arshad, Muhammad Mubashir Khan, Simon Parkinson",
 title = "Analysis of Security and Privacy Challenges for DNA Genomics Applications and Databases",
@@ -30,6 +48,7 @@ pages = "4",
 ```
 
 **Screenshot 1**
+![Paper 1](~/Pictures/AnalysisSecurity.png)
 ![Paper 1](imgs/Analysis Security.jpeg)
 
 ###### Paper 2: Holo-Block Chain: A Hybrid Approach for Secure IoT Healthcare Ecosystem
@@ -41,6 +60,8 @@ www.arxiv.org/abs/2304.14175
 
 **BibTex:**
 ```bibtex
+@article{aftabholo2022,
+author = "Aftab, Asad and Chrysosomu, Chrysostomos and Qureshi, Hassaan Khaliq and Rehman, Semeen",
 @article{
 author = "Asad Aftab, Chrysostomos Chrysosomou, Hassaan Khaliq Qureshi, and Semeen Rehman",
 title = "Holo-Block Chain: A Hybrid Approach for Secure IoT Healthcare Ecosystem",
@@ -49,10 +70,12 @@ year = "2022",
 volume = "1",
 number = "2",
 page = "243--250",
+DOI = "10.1109/WiMob55322.2022.9941553"
 }
 ```
 
 **Screenshot 2**
+![Paper 2](~/Pictures/Holo-Block Chain.png)
 ![Paper 2](imgs/Holo-Block Chain.png)
 
 ###### Paper 3: Humane Artificial Intelligence: The Fragility of Human Rights Facing AI 
@@ -64,6 +87,15 @@ www.jstor.org/stable/resrep25514
 
 **BibTex:**
 ```bibtex
+@techreport{cataletatech2020,
+title = "Human Artificial Intelligence: The Fragility of Human Rights Facing {AI}",
+author = "Maria Stefania Cataleta",
+institution = "East-West Center",
+address = "Honolulu, HI",
+number = "11",
+volume = "2",
+year = 2020,
+month =
 @article{
 author = "Maria Stefania Cataleta",
 title = "Human Artificial Intelligence: The Fragility of Human Rights Facing AI",
@@ -76,6 +108,7 @@ pages = "1--31",
 ```
 
 **Screenshot 3**
+![Paper 3](~/Pictures/Human AI.png)
 ![Paper 3](imgs/Human AI.png)
 
 ###### Paper 4: Cybersecurity of Genomic Data
@@ -83,6 +116,12 @@ pages = "1--31",
 Ron Pulivarti, Natalis Martin, Fred Byers, Justin Wagner, and Justin Zook (2023)
 
 **Link:** 
+https://doi.org/10.1007/s10791-025-09627-w
+
+**BibTex:**
+```bibtex
+@article{pulivartigenome2023,
+author = "Pulivarti, Ron and Martin, Natalis and Byers, Fred and Wagner, Justin and Zook, Justin",
 https://doi.org/10.6028.NIST.IR.8432
 
 **BibTex:**
@@ -96,10 +135,12 @@ year = "2023",
 volume = "1",
 number = "16",
 pages = "1--46",
+DOI = "10.6028.NIST.IR.8432"
 }
 ```
 
 **Screenshot 4:**
+![Paper 4](~/Pictures/Genomic Data.png)
 ![Paper 4](imgs/Genomic Data.png)
 
 ###### Paper 5: The Medical Ethics of HeLa Cells
@@ -111,6 +152,12 @@ www.digitalcommons.cortland.edu/cgi/viewcontent.cgi?article=1007&context=rhetdra
 
 **BibTex:**
 ```bibtex
+@misc{prattmisc2020,
+title = "The Medical Ethics of HeLa Cells",
+author = "Elizabeth Pratt",
+journal = "\url{https://www.digitalcommons.cortland.edu/rhetdragonsresearchinquiry/4/}",
+year = 2020,
+note = "Accessed: 2026-03-14"
 @article{
 author = "Elizabeth Pratt",
 title = "The Medical Ethics of HeLa Cells",
@@ -123,6 +170,10 @@ pages = "1--8",
 ```
 
 **Screenshot 5:**
+![Paper 5](~/Pictures/Hela Cells.png)
+
+###### Youtube Video
+(https://youtu.be/u0fS5AFYcAM)
 ![Paper 5](imgs/Hela Cells.png)
 
 ###### Youtube Video
