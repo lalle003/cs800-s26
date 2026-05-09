@@ -13,6 +13,9 @@ This submission includes five papers from my research (privacy persistance), eac
 |`README.md`| This file includes description, links, and screenshots |
 ```
 
+**Marked-up papers** -- Marked up PDFs of five papers (Keshav 1st pass problem, approach, and contributions)
+**imgs** Screenshots of of each paper
+**README.md** This file includes description, links, and screenshots
 
 #### Papers
 ###### Paper 1: Analysis of Security and Privacy Challenges for DNA Genomics Applications and Databases 
@@ -33,11 +36,20 @@ volume = "119",
 number = 
 pages = "1--14",
 DOI = "10.1016/j.jbi.2021.103815"
+@article{
+author = "Saadia Arshad, Junaid Arshad, Muhammad Mubashir Khan, Simon Parkinson",
+title = "Analysis of Security and Privacy Challenges for DNA Genomics Applications and Databases",
+journal = "Science Direct",
+year = "2021",
+volume = "119", 
+number = "12",
+pages = "4",
 }
 ```
 
 **Screenshot 1**
 ![Paper 1](~/Pictures/AnalysisSecurity.png)
+![Paper 1](imgs/Analysis Security.jpeg)
 
 ###### Paper 2: Holo-Block Chain: A Hybrid Approach for Secure IoT Healthcare Ecosystem
 **Reference:** 
@@ -50,6 +62,8 @@ www.arxiv.org/abs/2304.14175
 ```bibtex
 @article{aftabholo2022,
 author = "Aftab, Asad and Chrysosomu, Chrysostomos and Qureshi, Hassaan Khaliq and Rehman, Semeen",
+@article{
+author = "Asad Aftab, Chrysostomos Chrysosomou, Hassaan Khaliq Qureshi, and Semeen Rehman",
 title = "Holo-Block Chain: A Hybrid Approach for Secure IoT Healthcare Ecosystem",
 journal = "IEEE",
 year = "2022",
@@ -62,6 +76,7 @@ DOI = "10.1109/WiMob55322.2022.9941553"
 
 **Screenshot 2**
 ![Paper 2](~/Pictures/Holo-Block Chain.png)
+![Paper 2](imgs/Holo-Block Chain.png)
 
 ###### Paper 3: Humane Artificial Intelligence: The Fragility of Human Rights Facing AI 
 **Reference:**
@@ -81,11 +96,20 @@ number = "11",
 volume = "2",
 year = 2020,
 month =
+@article{
+author = "Maria Stefania Cataleta",
+title = "Human Artificial Intelligence: The Fragility of Human Rights Facing AI",
+journal = "JSTOR",
+year = "2020",
+volume = "2",
+number = "11",
+pages = "1--31",
 }
 ```
 
 **Screenshot 3**
 ![Paper 3](~/Pictures/Human AI.png)
+![Paper 3](imgs/Human AI.png)
 
 ###### Paper 4: Cybersecurity of Genomic Data
 **Reference:**
@@ -98,6 +122,13 @@ https://doi.org/10.1007/s10791-025-09627-w
 ```bibtex
 @article{pulivartigenome2023,
 author = "Pulivarti, Ron and Martin, Natalis and Byers, Fred and Wagner, Justin and Zook, Justin",
+https://doi.org/10.6028.NIST.IR.8432
+
+**BibTex:**
+```bibtex
+@article{
+title = "Cybersecurity of Genomic Data",
+author = "Ron Pulivarti, Natalis MArtin, Fred Byers, Justin Wagner, and Justin Zook",
 title = "Cybersecurity of Genomic Data",
 journal = "NIST",
 year = "2023",
@@ -110,6 +141,7 @@ DOI = "10.6028.NIST.IR.8432"
 
 **Screenshot 4:**
 ![Paper 4](~/Pictures/Genomic Data.png)
+![Paper 4](imgs/Genomic Data.png)
 
 ###### Paper 5: The Medical Ethics of HeLa Cells
 **Reference:**
@@ -126,6 +158,14 @@ author = "Elizabeth Pratt",
 journal = "\url{https://www.digitalcommons.cortland.edu/rhetdragonsresearchinquiry/4/}",
 year = 2020,
 note = "Accessed: 2026-03-14"
+@article{
+author = "Elizabeth Pratt",
+title = "The Medical Ethics of HeLa Cells",
+journal = "SUNY Cortland",
+year = "2020",
+volume = "4", 
+number = "3",
+pages = "1--8",
 }
 ```
 
@@ -134,3 +174,8 @@ note = "Accessed: 2026-03-14"
 
 ###### Youtube Video
 (https://youtu.be/u0fS5AFYcAM)
+![Paper 5](imgs/Hela Cells.png)
+
+###### Youtube Video
+(https://youtu.be/u0fS5AFYcAM)
+

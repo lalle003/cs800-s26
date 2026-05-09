@@ -34,6 +34,15 @@ I learned a different technique to review and synthesize articles such as 1st Pa
 |`Humane AI.pdf | Highlights the vulnerabilities in the legal and ethical framework within healthcare violated by artificial intelligence systems | 
 |`litreview.txt` | Main LaTeX file including introduction, summary, and syntesize section |
 |`litreview.bib` | BibTeX file containing all references citing research papers |
+PDF [Literature Review] - Final compiled literature review document.
+LaTeX Files:
+![LaTex](imgs/litreview4.png)
+
+[litreview.txt] - Main LaTeX file including introduction, summary, and syntesize section.
+![LaTex](imgs/ltex.png)
+
+[litreview.bib] - BibTeX file containing all references citing research papers.
+![LaTex](imgs/lbib4.png)
 ```
 
 ###### Papers Reviewed
