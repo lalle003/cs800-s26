@@ -15,10 +15,10 @@ I learned a different technique to review and synthesize articles such as 1st Pa
 ```text
 | Directory | Description |
 |-----------|-------------|
-|`README.md`| Instructions on how to format, run, and execute code |
-| `PDF Literature Review` | Summarizing problems and solutions from five research papers |
-| `Tex`     | File including the introduction, summaries, synthesis, and references |
-| `Bib` | Contains articles bibliographies |
+|README.md| Instructions on how to format, run, and execute code |
+|PDF Literature Review| Summarizing problems and solutions from five research papers |
+|Tex| File including the introduction, summaries, synthesis, and references |
+|Bib| Contains articles bibliographies |
 ```
 
 ###### Files Included
