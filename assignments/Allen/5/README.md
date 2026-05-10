@@ -6,10 +6,10 @@
 ```text
 | Directory | Description |
 |-----------|-------------|
-|`Analysis of Security and Privacy`| Highlight the vulnerabilities across tge genomic lifestyle by artificial intelligence systems |
-|`Cybersecurity of Genomic Data`| Protect against unauthorized access from direct-to-consumer databases during genome sharing |
-|`Slides`| Google slides presentation of relationship between two reports surrounding Privacy Resiliency within Genomic Data |
-|`README.md` | Include files, links, and description |
+|Analysis of Security and Privacy| Highlight the vulnerabilities across tge genomic lifestyle by artificial intelligence systems |
+|Cybersecurity of Genomic Data| Protect against unauthorized access from direct-to-consumer databases during genome sharing |
+|Slides| Google slides presentation of relationship between two reports surrounding Privacy Resiliency within Genomic Data |
+|README.md | Include files, links, and description |
 ```
 
 #### BibTeX
