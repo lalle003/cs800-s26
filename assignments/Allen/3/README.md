@@ -26,7 +26,7 @@ https://doi.org/10.1016/j.jbi.2021.103815
 ```bibtex
 @article{arshadai2021,
 author = "Arshad, Saadia and Arshad, Junaid and Khan, Muhammad Mubashir and Parkinson, Simon",
-title = "Analysis of Security and Privacy Challenges for {DNA} Genomics Applications and Databases",
+title = "Analysis of Security and Privacy Challenges for Deoxyribonucleic Acid", 
 journal = "J Biomed Inform",
 year = "2021",
 volume = "119", 
@@ -51,7 +51,7 @@ www.arxiv.org/abs/2304.14175
 @article{aftabholo2022,
 author = "Aftab, Asad and Chrysosomu, Chrysostomos and Qureshi, Hassaan Khaliq and Rehman, Semeen",
 title = "Holo-Block Chain: A Hybrid Approach for Secure IoT Healthcare Ecosystem",
-journal = "IEEE",
+journal = "The Institute of Electrical and Electronics Engineers",
 year = "2022",
 volume = "1",
 number = "2",
@@ -96,15 +96,15 @@ https://doi.org/10.1007/s10791-025-09627-w
 
 **BibTex:**
 ```bibtex
-@article{pulivartigenome2023,
-author = "Pulivarti, Ron and Martin, Natalis and Byers, Fred and Wagner, Justin and Zook, Justin",
-title = "Cybersecurity of Genomic Data",
-journal = "NIST",
-year = "2023",
-volume = "1",
-number = "16",
-pages = "1--46",
-DOI = "10.6028.NIST.IR.8432"
+@techreport{pulivartigenome2023,
+title = {Cybersecurity of Genomic Data},
+author = {Pulivarti, Ron and Martin, Natalis and Byers, Fred and Wagner, Justin and Zook, Justin},
+journal = {National Institute of Standards and Technology},
+address = {Gaithersburg, MD},
+number = {NIST IR 8432},
+doi = {10.6028.NIST.IR.8432},
+year {2023},
+month = {Dec},
 }
 ```
 
