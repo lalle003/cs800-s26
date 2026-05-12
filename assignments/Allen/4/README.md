@@ -23,18 +23,17 @@ I learned a different technique to review and synthesize articles such as 1st Pa
 
 ###### Files Included
 
-```ruby
-| File | Description |
-|------|-------------|
-|`CS800 Literature Review` | Final compiled literature review document |
-|`Analysis of Security.pdf` | Propose a structure taxonomy of threats and robust protection strategies | 
-|`Cybersecurity of DNA.pdf` | Secure genomic databases against unauthorized access | 
-|`HeLa Cells.pdf` | Moral and historical analysis of the HeLa Cell case for repeated violation of genome privacy and unauthorize sharing of genomic data|
-|`Holo-Block Chain.pdf | Incorporate blockchain technology to deliver resistance and security solution for IoT healthcare environments |
-|`Humane AI.pdf | Highlights the vulnerabilities in the legal and ethical framework within healthcare violated by artificial intelligence systems | 
-|`litreview.txt` | Main LaTeX file including introduction, summary, and syntesize section |
-|`litreview.bib` | BibTeX file containing all references citing research papers |
-```
+***File & Description***
+* CS800 Literature Review: Final compiled literature review document.
+* Analysis of Security.pdf: Propose a structure taxonomy of threats and robust protection strategies. 
+* Cybersecurity of DNA.pdf: Secure genomic databases against unauthorized access.
+* HeLa Cells.pdf: Moral and historical analysis of the HeLa Cell case for repeated violation of genome privacy and unauthorize sharing of genomic data.
+* Holo-Block Chain.pdf: Incorporate blockchain technology to deliver resistance and security solution for IoT healthcare environments.
+* Humane AI.pdf: Highlights the vulnerabilities in the legal and ethical framework within healthcare violated by artificial intelligence systems. 
+**LaTex Files**
+* CS800 Literature Review: Final compiled literature review document.
+* litreview.txt: Main LaTeX file including introduction, summary, and syntesize section.
+* litreview.bib: BibTeX file containing all references citing research papers.
 
 ###### Papers Reviewed
 
