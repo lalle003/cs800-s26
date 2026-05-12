@@ -30,14 +30,14 @@ title = "Analysis of Security and Privacy Challenges for {DNA} Genomics Applicat
 journal = "J Biomed Inform",
 year = "2021",
 volume = "119", 
-number = 
+number = "1",
 pages = "1--14",
 DOI = "10.1016/j.jbi.2021.103815"
 }
 ```
 
 **Screenshot 1**
-![Paper 1](~/Pictures/AnalysisSecurity.png)
+![Paper 1](/C/Users/joule/Pictures/AnalysisSecurity.png)
 
 ###### Paper 2: Holo-Block Chain: A Hybrid Approach for Secure IoT Healthcare Ecosystem
 **Reference:** 
@@ -61,7 +61,7 @@ DOI = "10.1109/WiMob55322.2022.9941553"
 ```
 
 **Screenshot 2**
-![Paper 2](~/Pictures/Holo-Block Chain.png)
+![Paper 2](/C/Users/joule/Pictures/Holo-Block Chain.png)
 
 ###### Paper 3: Humane Artificial Intelligence: The Fragility of Human Rights Facing AI 
 **Reference:**
@@ -85,7 +85,7 @@ month =
 ```
 
 **Screenshot 3**
-![Paper 3](~/Pictures/Human AI.png)
+![Paper 3](/C/Users/joule/Pictures/Human AI.png)
 
 ###### Paper 4: Cybersecurity of Genomic Data
 **Reference:**
@@ -109,7 +109,7 @@ DOI = "10.6028.NIST.IR.8432"
 ```
 
 **Screenshot 4:**
-![Paper 4](~/Pictures/Genomic Data.png)
+![Paper 4](/C/Users/joule/Pictures/Genomic Data.png)
 
 ###### Paper 5: The Medical Ethics of HeLa Cells
 **Reference:**
@@ -130,7 +130,7 @@ note = "Accessed: 2026-03-14"
 ```
 
 **Screenshot 5:**
-![Paper 5](~/Pictures/Hela Cells.png)
+![Paper 5](/C/Users/joule/Pictures/Hela Cells.png)
 
 ###### Youtube Video
 (https://youtu.be/u0fS5AFYcAM)
