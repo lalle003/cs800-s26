@@ -16,14 +16,14 @@
 **Report 1:**
 
 ```bibtex
-@techreport{arshad2021tech,
-title = "Analysis of Security and Privacy",
+@article{arshad2021report,
+title = "Analysis of Security and Privacy Challenges",
 author = "Arshad,S. et al.",
-institution = "NED University of Engineering", 
-address = "Karachi, Pakistan",
-number = "doi:10.1016/j.jbi.2021.103815",
-year = "2021",
-month = "Jul",
+journal = "Journal of Biomedical Informatics", 
+year = 2021,
+volume = "119",
+number = 
+pages = "1--14",
 }
 ```
 
@@ -31,9 +31,10 @@ month = "Jul",
 @techreport{pulivarti2023tech,
 title = "Cybersecurity of Genomic Data",
 author = "Pulivarti, R. et al.",
-institution = "NIST IR 8432",
+institution = "National Institute of Standards and Technology",
 address = "100 Bureau Dr., Gaithersburg, MD 20899",
-number = "doi:1.6028/NIST.IR.8432",
+number = {NIST IR 8432},
+doi = {10.6028/NIST.IR.8432},
 year = "2023"
 month = "Dec",
 }
@@ -43,4 +44,4 @@ month = "Dec",
 Analysis of Security and Genomic Data both highlights the security and privacy vulnerability landscape across the genomic lifecycle. One serves as a baseline while the other report extends every major vulnerability category into the domain of artificial intelligence and quantum computing.
 
 **Google Slides Presentation**
-(https://docs.google.com/presentation/d/1_gYCay2bzhO-QU4B5XkDt_nj2vYbzel)
+(https://docs.google.com/presentation/d/1_gYCay2bzhO-QU4B5XkDt_nj2vYbzel/edit?slide=id.p1#slide=id.p1)
