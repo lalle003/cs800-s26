@@ -1,5 +1,5 @@
 ## Assignment 4 - Literature Review
-#### CS 800 - Research Methods
+## CS 800 - Research Methods
 
 ###### Assignment Description
 I learned a different technique to review and synthesize articles such as 1st Pass Keshav for five research papers addressing privacy persistent within biology autonomy. The literature review summarizes the introduction, summaries, synthesis, and references.
