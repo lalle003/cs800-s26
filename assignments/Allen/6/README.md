@@ -1,5 +1,5 @@
 ## Assignment 6: Student Dissertation Presentation
-#### CS800 Research Methods, Spring 2026
+## CS800 Research Methods, Spring 2026
 
 #### Directory Structure
 
