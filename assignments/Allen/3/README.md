@@ -1,5 +1,5 @@
 ## Assignment 3: Reading Papers
-## CS 800 Research Methods
+#### CS 800 Research Methods
 
 This submission includes five papers from my research (privacy persistance), each with Keshav's 1st pass summary of problem, approach, and contributions; reference; link; BibTex; and marked up PDF.
 
