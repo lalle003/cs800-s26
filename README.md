@@ -37,13 +37,20 @@ CRN 32738
   * [Class slides](https://docs.google.com/presentation/d/1Sj1vgQ_8m0WVEi45PX7fexI0hjmLlGUVVpJIvCk1hg8/edit)
 * Week 04: Feb 16 Related Work and Ethics
   * [Class slides](https://docs.google.com/presentation/d/1iplY-NFOtmETeDL0HUKEdZptg72iRb62J4P6q55sEds/edit)
-* Week 05:	Feb 23 Academic Communication - Writing  
-* Week 06: Mar 2	Academic Communication - Presenting 
-* Week 07:	Mar 9	Visualization Basics, Intro to R  
+* Week 05:	Feb 23 Academic Communication - Presenting
+  * [Class slides](https://docs.google.com/presentation/d/1NjMX8GJvPWLJng7IHXr-sB9nA2PcKFZrbxh585pq0b0/edit)
+* Week 06: Mar 2 A Vision for Trustworthy Web Archiving
+  * [Slides](https://docs.google.com/presentation/d/1UBpGkgQWNVQCe0zvh77ZyEMSibUSDkeRnf5zDxyrrIM/edit)
+  * [Video](https://virginiatech.zoom.us/rec/share/jM_lI1my3ydGVGoVIjoNSNfoao7ZxRkYwQHLB5sdxIknH5x3W5D0AIo5GTIQeOU.C6W-6sTQFAfhP0eB)
+* Week 07:	Mar 9	Writing and Reviewing
+  * [Class slides](https://docs.google.com/presentation/d/1uiMukqQHugvHpUwyUTz3Vjx2zsLnyoVTXqGYmzzJkZo/edit)
 * Week 08:	Mar 16	**NO CLASS - Spring Break**  
-* Week 09:	Mar 23	ODU-CS Faculty Presentations  
-* Week 10: Mar 30  ODU-CS Faculty Presentations 
-* Week 11: Apr 6	TBA  
+* Week 09:	Mar 23	Students Presentations (1/2) and Proposal Writing
+  * [Class slides](https://docs.google.com/presentation/d/1H7ulYtB3h200firEshT_PxdKGzYFxKWWBHFf8kjJsYc/edit)
+* Week 10: Mar 30  Students Presentations (2/2)
+* Week 11: Apr 6 Publications and Citations
+  * [Class slides (formal version)](https://docs.google.com/presentation/d/1XrdCSsp86iH6FEcan8asFJRiH7LqGMYk92M-aNvU8gU/edit)
+  * [Class slides (fun version)](https://docs.google.com/presentation/d/1jxKLbQT0u8xvnESTxii8BCmBddWhchRMByc6u8ahq1A/edit)
 * Week 12: Apr 13	Student Dissertation Presentations  
 * Week 13: Apr 20	Student Dissertation Presentations  
 * Week 14: Apr 27	Student Dissertation Presentations  
@@ -61,3 +68,7 @@ CRN 32738
    * [Due: Feb 23](/assignments/assignment-03.md)
 * Assignment 4: Literature Review
    * [Due: Mar 9](/assignments/assignment-04.md)
+* Assignment 5: Literature Review, Part 2
+   * [Due: Mar 23](/assignments/assignment-05.md)
+* Assignment 6: Student Dissertation Presentations
+   * [Due: Apr 13--May 4](/assignments/assignment-06.md)
